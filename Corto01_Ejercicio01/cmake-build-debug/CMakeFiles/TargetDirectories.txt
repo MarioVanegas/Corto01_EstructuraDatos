@@ -1,0 +1,3 @@
+/home/mario/CLionProjects/Corto01_Ejercicio01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mario/CLionProjects/Corto01_Ejercicio01/cmake-build-debug/CMakeFiles/Corto01_Ejercicio01.dir
+/home/mario/CLionProjects/Corto01_Ejercicio01/cmake-build-debug/CMakeFiles/edit_cache.dir
